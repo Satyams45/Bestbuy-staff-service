@@ -25,6 +25,13 @@ This microservice handles CRUD operations for staff information using FastAPI.
 ## ⚙️ CI/CD
 - GitHub Actions builds, tests, and pushes Docker image to Docker Hub
 
+  Note : professor I faced problem in my vs code, I already told you during the exam. other then that my all step working correctly
+![image](https://github.com/user-attachments/assets/83e84f9b-fd85-4147-aa13-c83f7d7810c4)
+
+otherthen that other cmd is running
+![image](https://github.com/user-attachments/assets/4bad76e9-50e2-48a8-80ff-f6c5e1e7b56f)
+
+
 ## 🧪 Issues Faced
 - Needed to expose FastAPI on correct port for AKS
 - Docker tag mismatch resolved with `latest` naming convention
