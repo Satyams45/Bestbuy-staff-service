@@ -36,3 +36,7 @@ otherthen that other cmd is running
 - can not commit the file...facing problem in vscode
 
 otherthen that allworking
+
+and professor i'm also forgot to question-3
+so the answer is true. I deleted my all resources after the exam and all labs.
+please consider this question
