@@ -2,13 +2,13 @@
 
 This microservice handles CRUD operations for staff information using FastAPI.
 
-## 📌 Features
+##  Features
 - Add, retrieve, update, and delete staff records
 - Fully RESTful API
 - Dockerized and deployed on Azure AKS
 - CI/CD with GitHub Actions
 
-## 🚀 Endpoints
+##  Endpoints
 - GET `/staff` - Get all staff
 - GET `/staff/{id}` - Get staff by ID
 - POST `/staff` - Create new staff
@@ -18,7 +18,7 @@ This microservice handles CRUD operations for staff information using FastAPI.
 ## 🐳 Docker Image
 [Docker Hub Image](https://hub.docker.com/r/satyams45/bestbuy-staff-service)
 
-## 📦 Deployment
+##  Deployment
 - Azure Kubernetes Service (AKS)
 - LoadBalancer exposes the API publicly
 
@@ -32,6 +32,7 @@ otherthen that other cmd is running
 ![image](https://github.com/user-attachments/assets/4bad76e9-50e2-48a8-80ff-f6c5e1e7b56f)
 
 
-## 🧪 Issues Faced
-- Needed to expose FastAPI on correct port for AKS
-- Docker tag mismatch resolved with `latest` naming convention
+##  Issues Faced
+- can not commit the file...facing problem in vscode
+
+otherthen that allworking
