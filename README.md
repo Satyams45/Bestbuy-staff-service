@@ -37,6 +37,6 @@ otherthen that other cmd is running
 
 otherthen that allworking
 
-and professor i'm also forgot to question-3
+Note : - professor i'm also forgot to question-3
 so the answer is true. I deleted my all resources after the exam and all labs.
 please consider this question
