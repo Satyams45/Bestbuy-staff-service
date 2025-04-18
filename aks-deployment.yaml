@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: staff-service
-          image: YOUR_DOCKER_USERNAME/bestbuy-staff-service:latest
+          image: satyams45/bestbuy-staff-service:latest
           ports:
             - containerPort: 8000
 
