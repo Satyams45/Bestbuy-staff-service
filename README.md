@@ -28,7 +28,10 @@ This microservice handles CRUD operations for staff information using FastAPI.
   Note : professor I faced problem in my vs code, I already told you during the exam. other then that my all step working correctly
 ![image](https://github.com/user-attachments/assets/83e84f9b-fd85-4147-aa13-c83f7d7810c4)
 
-otherthen that other cmd is running
+Also created ci_cd file
+![image](https://github.com/user-attachments/assets/1013884b-5ef3-41d0-9e44-f875f467eed9)
+
+ci_cd command is  also running
 ![image](https://github.com/user-attachments/assets/4bad76e9-50e2-48a8-80ff-f6c5e1e7b56f)
 
 
@@ -37,6 +40,6 @@ otherthen that other cmd is running
 
 otherthen that allworking
 
-Note : - professor i'm also forgot to question-3
+Note : - professor I think i'm also forgot to question-3
 so the answer is true. I deleted my all resources after the exam and all labs.
 please consider this question
